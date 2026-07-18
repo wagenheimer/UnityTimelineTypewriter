@@ -1,0 +1,21 @@
+{
+    "name": "Wagenheimer.TimelineTypewriter.Editor",
+    "rootNamespace": "Wagenheimer.TimelineTypewriter.Editor",
+    "references": [
+        "Wagenheimer.TimelineTypewriter",
+        "Unity.Timeline",
+        "Unity.Timeline.Editor",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
