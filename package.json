@@ -1,6 +1,6 @@
 {
   "name": "com.wagenheimer.timelinetypewriter",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "displayName": "Timeline Typewriter",
   "description": "A Unity Timeline typewriter text effect track where character reveal rates are automatically paced and synced to matches an AudioClip duration.",
   "unity": "2021.3",

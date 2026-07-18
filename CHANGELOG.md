@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2026-07-18
+
+### Fixed
+- hide text on Awake before timeline starts
+
 ## [1.1.0] - 2026-07-18
 
 ### Added
