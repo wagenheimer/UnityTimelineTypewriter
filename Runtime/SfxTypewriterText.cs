@@ -14,6 +14,12 @@ namespace Wagenheimer.TimelineTypewriter
     {
         [SerializeField] private TextMeshProUGUI label;
 
+        private void Awake()
+        {
+            if (label == null) label = GetComponent<TextMeshProUGUI>();
+            SetProgress01(0f);
+        }
+
         private void Reset()
         {
             label = GetComponent<TextMeshProUGUI>();
