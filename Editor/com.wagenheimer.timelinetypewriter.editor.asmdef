@@ -5,7 +5,8 @@
         "Wagenheimer.TimelineTypewriter",
         "Unity.Timeline",
         "Unity.Timeline.Editor",
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "Wagenheimer.PackageHub.Editor"
     ],
     "includePlatforms": [
         "Editor"

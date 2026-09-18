@@ -1,8 +1,8 @@
 {
   "name": "com.wagenheimer.timelinetypewriter",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "displayName": "Timeline Typewriter",
-  "description": "A Unity Timeline typewriter text effect track where character reveal rates are automatically paced and synced to matches an AudioClip duration.",
+  "description": "TextMeshPro typewriter effect track and clips for Unity Timeline with audio blips, variable speed, and completion callbacks.",
   "unity": "2021.3",
   "author": {
     "name": "Cezar Wagenheimer",
@@ -11,13 +11,16 @@
   "keywords": [
     "timeline",
     "typewriter",
-    "sfx",
-    "audio",
-    "sync"
+    "textmeshpro",
+    "tmp",
+    "text",
+    "animation",
+    "dialogue"
   ],
-  "category": "Tools",
+  "category": "Animation",
   "dependencies": {
-    "com.unity.timeline": "1.8.12",
-    "com.unity.textmeshpro": "3.0.6"
+    "com.unity.timeline": "1.7.6",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.wagenheimer.packagehub": "https://github.com/wagenheimer/UnityPackageHub.git#v1.0.0"
   }
 }
