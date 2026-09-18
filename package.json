@@ -21,6 +21,6 @@
   "dependencies": {
     "com.unity.timeline": "1.7.6",
     "com.unity.textmeshpro": "3.0.6",
-    "com.wagenheimer.packagehub": "https://github.com/wagenheimer/UnityPackageHub.git#v1.0.0"
+    "com.wagenheimer.packagehub": "https://github.com/wagenheimer/UnityPackageHub.git#v1.0.1"
   }
 }
