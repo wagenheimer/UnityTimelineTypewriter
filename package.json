@@ -1,6 +1,6 @@
 {
   "name": "com.wagenheimer.timelinetypewriter",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "displayName": "Timeline Typewriter",
   "description": "TextMeshPro typewriter effect track and clips for Unity Timeline with audio blips, variable speed, and completion callbacks.",
   "unity": "2021.3",
