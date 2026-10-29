@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.2] - 2026-10-29
+
+### Changed
+- chore(deps): use the unpinned Package Hub git URL
+
 ## [1.2.1] - 2026-10-29
 
 ### Changed
