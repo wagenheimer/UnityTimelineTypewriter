@@ -40,7 +40,7 @@ character at the right moment. Scrubbing the Timeline updates the text in the ed
 | Unity | 2021.3 or newer |
 | Timeline (`com.unity.timeline`) | 1.7.6+ — installed automatically |
 | TextMeshPro (`com.unity.textmeshpro`) | 3.0.6+ — installed automatically |
-| Wagenheimer Package Hub | Installed automatically as a package dependency |
+| Wagenheimer Package Hub | Installed automatically as an unpinned dependency |
 
 The track targets **TextMeshPro UGUI** (`TextMeshProUGUI`). TextMeshPro 3D labels are not supported
 by `SfxTypewriterText`.
@@ -72,7 +72,7 @@ by `SfxTypewriterText`.
 To pin a specific release, append the tag:
 
 ```text
-https://github.com/wagenheimer/UnityTimelineTypewriter.git#v1.2.0
+https://github.com/wagenheimer/UnityTimelineTypewriter.git#vX.Y.Z
 ```
 
 ---
