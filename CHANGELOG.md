@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.1] - 2026-10-29
+
+### Changed
+- docs: rewrite README with usage, pacing model and troubleshooting
+- chore(deps): bump PackageHub dependency to v1.0.5
+- chore: update UnityPackageHub dependency to v1.0.1
+
 ## [1.2.0] - 2026-09-18
 
 ## [1.1.2] - 2026-09-18
