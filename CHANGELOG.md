@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.3] - 2026-11-12
+
+### Changed
+- chore: ignore Git Bash crash dumps (*.stackdump)
+- chore: add issue and pull request templates [skip ci]
+- chore: add issue/PR templates and ecosystem footer [skip ci]
+
 ## [1.2.2] - 2026-10-29
 
 ### Changed
